@@ -1,2 +1,2 @@
 # FIGMA
-Prototype an screens
+## Prototype an screens
